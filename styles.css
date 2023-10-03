@@ -1,0 +1,12 @@
+.navbar-expand {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    margin-top: 2%;
+}
+.nav-link {
+    font-family: emoji;
+    font-size: larger;
+}
