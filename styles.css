@@ -20,3 +20,27 @@ img, svg {
 .text {
     margin-top: 30%;
 }
+.nav-item-about{
+    background-color:#ffc5ad;
+    border-radius: 20%;
+    margin-left: 5px;
+}
+.nav-item-works{
+    background-color:#ffc5ad;
+    border-radius: 20%;
+    margin-left: 5px;
+}
+.nav-item-contact{
+    background-color:#ffc5ad;
+    border-radius: 20%;
+    margin-left: 5px;
+}
+.navbar-collapse{
+    font-size: larger;
+}
+h3{
+    font-family: emoji;
+}
+
+
+
