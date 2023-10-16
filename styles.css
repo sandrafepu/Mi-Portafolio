@@ -47,6 +47,13 @@ h3{
     text-align: center;
     border-radius: 15px;
 }
+.techs {
+    display: contents;
+}
+.fa-2x {
+    margin: 10px;
+}
+
 
 
 
