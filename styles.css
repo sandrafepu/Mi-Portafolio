@@ -12,7 +12,7 @@
 }
 img, svg {
     vertical-align: middle;
-    border-radius: 5%;
+    border-radius: 15px;
     margin-left: 40%;
     margin-top: 5%;
     width: 350px;
@@ -41,6 +41,13 @@ img, svg {
 h3{
     font-family: emoji;
 }
+.about {
+    background-color: #ffc5ad;
+    margin: 2%;
+    text-align: center;
+    border-radius: 15px;
+}
+
 
 
 
