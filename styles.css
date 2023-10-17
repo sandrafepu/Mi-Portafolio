@@ -24,17 +24,17 @@ img, svg {
 
 }
 .nav-item-about{
-    background-color:#ffc5ad;
+    background-image: url('gray-wall-textures-background.jpg');
     border-radius: 20%;
     margin-left: 5px;
 }
 .nav-item-works{
-    background-color:#ffc5ad;
+ background-image: url('gray-wall-textures-background.jpg');
     border-radius: 20%;
     margin-left: 5px;
 }
 .nav-item-contact{
-    background-color:#ffc5ad;
+    background-image: url('gray-wall-textures-background.jpg');
     border-radius: 20%;
     margin-left: 5px;
 }
@@ -46,7 +46,7 @@ h3{
     text-shadow: 1px 1px 2px #000000;
 }
 .about {
-    background-color: #ffc5ad;
+    background-image: url('gray-wall-textures-background.jpg');
     margin: 2%;
     text-align: center;
     border-radius: 15px;
@@ -60,6 +60,8 @@ h3{
 a {
     text-shadow: 0.5px 0.5px 2px #000000;
 }
+
+
 
 
 
