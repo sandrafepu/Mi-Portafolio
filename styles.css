@@ -6,9 +6,10 @@
     transform: translatex(-50%);
     margin-top: 2%;
 }
-.nav-link {
+.nav-link:hover {
     font-family: emoji;
-    font-size: larger;
+    text-decoration: none; /* Para quitar la subraya del enlace */
+    transition: color 0.3s;
 }
 img, svg {
     vertical-align: middle;
@@ -19,6 +20,8 @@ img, svg {
 }
 .text {
     margin-top: 30%;
+    text-shadow: 1px 1px 2px #000000;
+
 }
 .nav-item-about{
     background-color:#ffc5ad;
@@ -40,6 +43,7 @@ img, svg {
 }
 h3{
     font-family: emoji;
+    text-shadow: 1px 1px 2px #000000;
 }
 .about {
     background-color: #ffc5ad;
@@ -52,6 +56,9 @@ h3{
 }
 .fa-2x {
     margin: 10px;
+}
+a {
+    text-shadow: 0.5px 0.5px 2px #000000;
 }
 
 
